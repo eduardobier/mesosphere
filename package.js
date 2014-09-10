@@ -1,7 +1,7 @@
 Package.describe({
   summary: " A fork of Mesosphere form-data validation and transformation package for Meteor",
   version: "0.0.1",
-  git: " \* Fill me in! *\ "
+  git: "https://github.com/eduardobier/mesosphere.git"
 });
 
 Package.onUse(function(api) {
